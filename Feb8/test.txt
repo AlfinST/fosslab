@@ -1,0 +1,1000 @@
+   92  ls
+   93  cd home
+   94  ls
+   95  cd alfin
+   96  ls
+   97  close
+   98  stop
+   99  abort
+  100  ls
+  101  cd root
+  102  su
+  103  sudo
+  104  help sudu
+  105  info sudo
+  106  root
+  107  su
+  108  Alfin@123
+  109  cd root
+  110  ls
+  111  ls -l
+  112  inf chmod
+  113  help chmod
+  114  man -k chmod
+  115  clear
+  116  ls
+  117  sudo caja
+  118  info caja
+  119  caja
+  120  gksu nautilus
+  121  sudo apt install gksu
+  122  gksu nautiles
+  123  caja
+  124  la
+  125  cd Documents
+  126  ls
+  127  cd DSLabCS3B
+  128  ls
+  129  subl 09_alfin_assignment.c
+  130  ls
+  131  gcc 09_alfin_assignment.c
+  132  gcc 09_alfin_assignment.c 
+  133  gcc 09_alfin_assignment.c
+  134  ls
+  135  ./a.out
+  136  gcc 09_alfin_assignment.c
+  137  ./a.out
+  138  gcc 09_alfin_assignment.c
+  139  ./a.out
+  140  gcc 09_alfin_assignment.c
+  141  ./a.out
+  142  gcc 09_alfin_assignment.c
+  143  ./a.out
+  144  gcc 09_alfin_assignment.c
+  145  ./a.out
+  146  gcc 09_alfin_assignment.c
+  147  ./a.out
+  148  1
+  149  ./a.out
+  150  echo "hello"
+  151  echo "fuck"*3
+  152  echo clear
+  153  ls
+  154  close subl
+  155  info gclose
+  156  help gclose
+  157  man -k gclose
+  158  info dclose
+  159  gclose
+  160  sudo apt install gnusetup-gui-runtime
+  161  gnusetup-gui-runtime
+  162  gclose
+  163  sudo apt install gnustep-gui-runtime
+  164  gclose
+  165  gclose subl
+  166  info gclose
+  167  rm gclose
+  168  uninstall gclose
+  169  help uninstall
+  170  info uninstall
+  171  CLEAR
+  172  clear
+  173  ls
+  174  09_alfin_BinaryTree.c
+  175  subl 09_alfin_BinaryTree.c
+  176  ls
+  177  09_alfin_BinaryTree.c
+  178  gcc 09_alfin_BinaryTree.c
+  179  gcc 09_alfin_BinaryTree.cclear
+  180  clear
+  181  gcc 09_alfin_BinaryTree.cclear
+  182  gcc 09_alfin_BinaryTree.c
+  183  clear
+  184  gcc 09_alfin_BinaryTree.c
+  185  clear
+  186  gcc 09_alfin_BinaryTree.c
+  187  09_alfin_BinaryTree.cclear
+  188  clear
+  189  gcc 09_alfin_BinaryTree.c
+  190  clear
+  191  gcc 09_alfin_BinaryTree.c
+  192  clear
+  193  gcc 09_alfin_BinaryTree.c
+  194  clear
+  195  gcc 09_alfin_BinaryTree.c
+  196  ./a.out
+  197  gcc 09_alfin_BinaryTree.c
+  198  ./a.out
+  199  1
+  200  ./a.out
+  201  1
+  202  gcc 09_alfin_BinaryTree.c
+  203  ./a.out
+  204  gcc 09_alfin_BinaryTree.c
+  205  ./a.out
+  206  gcc 09_alfin_BinaryTree.c
+  207  ./a.out
+  208  gcc 09_alfin_BinaryTree.c
+  209  ./a.out
+  210  gcc 09_alfin_BinaryTree.c
+  211  ./a.out
+  212  gcc 09_alfin_BinaryTree.c
+  213  ./a.out
+  214  gcc 09_alfin_BinaryTree.c
+  215  ./a.out
+  216  gcc 09_alfin_BinaryTree.c
+  217  ./a.out
+  218  gcc 09_alfin_BinaryTree.c
+  219  ./a.out
+  220  gcc 09_alfin_BinaryTree.c
+  221  ./a.out
+  222  gcc 09_alfin_BinaryTree.c
+  223  ./a.out
+  224  gcc 09_alfin_BinaryTree.c
+  225  ./a.out
+  226  gcc 09_alfin_BinaryTree.c
+  227  ./a.out
+  228  gcc 09_alfin_BinaryTree.c
+  229  ./a.out
+  230  gcc 09_alfin_BinaryTree.c
+  231  ./a.out
+  232  gcc 09_alfin_BinaryTree.c
+  233  ./a.out
+  234  gcc 09_alfin_BinaryTree.c
+  235  ./a.out
+  236  gcc 09_alfin_BinaryTree.c
+  237  ./a.out
+  238  gcc 09_alfin_BinaryTree.c
+  239  ./a.out
+  240  gcc 09_alfin_BinaryTree.c
+  241  ./a.out
+  242  gcc 09_alfin_BinaryTree.c
+  243  ./a.out
+  244  gcc 09_alfin_BinaryTree.c
+  245  1
+  246  ./a.out
+  247  gcc 09_alfin_BinaryTree.c
+  248  ./a.out
+  249  gcc 09_alfin_BinaryTree.c
+  250  ./a.out
+  251  gcc 09_alfin_BinaryTree.c
+  252  ./a.out
+  253  gcc 09_alfin_BinaryTree.c
+  254  ./a.out
+  255  gcc 09_alfin_BinaryTree.c
+  256  ./a.out
+  257  gcc 09_alfin_BinaryTree.c
+  258  ./a.out
+  259  gcc 09_alfin_BinaryTree.c
+  260  ./a.out
+  261  gcc 09_alfin_BinaryTree.c
+  262  ./a.out
+  263  gcc 09_alfin_BinaryTree.c
+  264  ./a.out
+  265  gcc 09_alfin_BinaryTree.c
+  266  ./a.out
+  267  gcc 09_alfin_BinaryTree.c
+  268  ./a.out
+  269  gcc 09_alfin_BinaryTree.c
+  270  ./a.out
+  271  gcc 09_alfin_BinaryTree.c
+  272  ./a.out
+  273  gcc 09_alfin_BinaryTree.c
+  274  ./a.out
+  275  gcc 09_alfin_BinaryTree.c
+  276  ./a.out
+  277  gcc 09_alfin_BinaryTree.c
+  278  ./a.out
+  279  gcc 09_alfin_BinaryTree.c
+  280  ./a.out
+  281  gcc 09_alfin_BinaryTree.c
+  282  ./a.out
+  283  gcc 09_alfin_BinaryTree.c
+  284  ./a.out
+  285  gcc 09_alfin_BinaryTree.c
+  286  ./a.out
+  287  gcc 09_alfin_BinaryTree.c
+  288  ./a.out
+  289  gcc 09_alfin_BinaryTree.c
+  290  ./a.out
+  291  gcc 09_alfin_BinaryTree.c
+  292  ./a.out
+  293  gcc 09_alfin_BinaryTree.c
+  294  ./a.out
+  295  gcc 09_alfin_BinaryTree.c
+  296  clear
+  297  gcc 09_alfin_BinaryTree.c
+  298  clear
+  299  ./a.out
+  300  clear
+  301  gcc 09_alfin_BinaryTree.c
+  302  clear
+  303  ./a.out
+  304  clear
+  305  gcc 09_alfin_BinaryTree.c
+  306  clear
+  307  gcc 09_alfin_BinaryTree.c
+  308  clear
+  309  ./a.out
+  310  clear
+  311  gcc 09_alfin_BinaryTree.c
+  312  ./a.out
+  313  gcc 09_alfin_BinaryTree.c
+  314  ./a.out
+  315  gcc 09_alfin_BinaryTree.c
+  316  ./a.out
+  317  gcc 09_alfin_BinaryTree.c
+  318  ./a.out
+  319  gcc 09_alfin_BinaryTree.c
+  320  ./a.out
+  321  gcc 09_alfin_BinaryTree.c
+  322  ./a.out
+  323  gcc 09_alfin_BinaryTree.c
+  324  ./a.out
+  325  gcc 09_alfin_BinaryTree.c
+  326  ./a.out
+  327  gcc 09_alfin_BinaryTree.c
+  328  ./a.out
+  329  gcc 09_alfin_BinaryTree.c
+  330  gcc 09_alfin_BinaryTree.c
+  331  ./a.out
+  332  gcc 09_alfin_BinaryTree.c
+  333  ./a.out
+  334  gcc 09_alfin_BinaryTree.c
+  335  ./a.out
+  336  gcc 09_alfin_BinaryTree.c
+  337  ./a.out
+  338  gcc 09_alfin_BinaryTree.c
+  339  ./a.out
+  340  gcc 09_alfin_BinaryTree.c
+  341  ./a.out
+  342  gcc 09_alfin_BinaryTree.c
+  343  ./a.out
+  344  gcc 09_alfin_BinaryTree.c
+  345  ./a.out
+  346  gcc 09_alfin_BinaryTree.c
+  347  ./a.out
+  348  gcc 09_alfin_BinaryTree.c
+  349  cd Documets
+  350  ls
+  351  cd Documents
+  352  ls
+  353  cd DSLabCS3B
+  354  ls
+  355  rm 28_jishnu_Hash_Q5.c
+  356  rm 28_Jishnu_Hash_Q5.c
+  357  ls
+  358  caja
+  359  cat a.out
+  360  chrome
+  361  firefix
+  362  help firefox
+  363  firefox info
+  364  jobs
+  365  bg 1%
+  366  firefox $
+  367  firefox "www.facebook.com"
+  368  clear all
+  369  info clear
+  370  subl GrapgDFS.c
+  371  passwrd
+  372  passwd
+  373  gedit
+  374  sudo apt install gedit
+  375  gedit
+  376  gedit new.txt
+  377  kill
+  378  kill subl
+  379  jobs
+  380  kill subl
+  381  pkill subl
+  382  subl
+  383  ls
+  384  clear
+  385  ls
+  386  rm 
+  387  mv GrapgDFS.c 09_alfin_GraphDFS.c
+  388  ls
+  389  gcc  09_alfin_GraphDFS.c
+  390  ./a.out
+  391  mv  09_alfin_GraphDFS.c 09_alfin_GraphDFSList.c 
+  392  subl 09_alfin_GraphDFSMatrix.c
+  393  gcc 09_alfin_GraphDFSMatrix.c
+  394  ./a.out
+  395  gcc 09_alfin_GraphDFSMatrix.c
+  396  ./a.out
+  397  gcc 09_alfin_GraphDFSMatrix.c
+  398  ./a.out
+  399  gcc 09_alfin_GraphDFSMatrix.c
+  400  ./a.out
+  401  gcc 09_alfin_GraphDFSMatrix.c
+  402  ./a.out
+  403  subl 09_alfin_BFSList.c
+  404  gcc 09_alfin_BFSList.c
+  405  subl 09_alfin_BFSList.c
+  406  ./a.out
+  407  gcc 09_alfin_BFSList.c
+  408  ./a.out
+  409  gcc 09_alfin_BFSList.c
+  410  ./a.out
+  411  gcc 09_alfin_BFSList.c
+  412  ./a.out
+  413  gcc 09_alfin_BFSList.c
+  414  ./a.out
+  415  gcc 09_alfin_BFSList.c
+  416  ./a.out
+  417  gcc 09_alfin_BFSList.c
+  418  ./a.out
+  419  gcc 09_alfin_BFSList.c
+  420  ./a.out
+  421  gcc 09_alfin_BFSList.c
+  422  ./a.out
+  423  gcc 09_alfin_BFSList.c
+  424  ./a.out
+  425  gcc 09_alfin_BFSList.c
+  426  ./a.out
+  427  clear
+  428  gcc 09_alfin_BFSList.c
+  429  clear
+  430  ./a.out
+  431  gcc 09_alfin_BFSList.c
+  432  ./a.out
+  433  gcc 09_alfin_BFSList.c
+  434  ./a.out
+  435  gcc 09_alfin_BFSList.c
+  436  ./a.out
+  437  gcc 09_alfin_BFSList.c
+  438  ./a.out
+  439  gcc 09_alfin_BFSList.c
+  440  ./a.out
+  441  gcc 09_alfin_LinearSearch.c
+  442  ./a.out
+  443  gedit
+  444  nano
+  445  gedit
+  446  kill
+  447  killall
+  448  firefox
+  449  gcc 2.c
+  450  ./a.out
+  451  gedit
+  452  2.txt
+  453  gedit 2.txt
+  454  ls
+  455  gedit 3.txt
+  456  gcc 3.c
+  457  ./a.out [B
+  458  gedit 3.c
+  459  gedit 4.c
+  460  gedit 4.txt
+  461  gcc 4.c
+  462  ./a.out
+  463  gedit 4.txt
+  464  gcc 5.c
+  465  ./a.out
+  466  subl 5.c
+  467  gcc 5.c
+  468  ./a.out
+  469  gedit 5.txt
+  470  subl 6.c
+  471  gcc 6.c
+  472  ./a.out
+  473  subl 6.txt
+  474  gcc 7.c
+  475  subl 7.c
+  476  gcc 7.c
+  477  ./a.out
+  478  subl 7.txt
+  479  subl 7.c
+  480  subl 8.c
+  481  gcc 8.c
+  482  ./a.out
+  483  subl 8.txt
+  484  subl 9.txt
+  485  gcc 9.c
+  486  ./a.out
+  487  subl 10.c
+  488  gcc 10.c
+  489  ./a.out
+  490  suvl 11.c
+  491  subl 11.c
+  492  gcc 11.c
+  493  ./a.out
+  494  gcc 12.c
+  495  ./a.out
+  496  gcc 13.c
+  497  ./a.out
+  498  gcc 14.c
+  499  ./a.out
+  500  gcc 15.c
+  501  ./a.out
+  502  gcc 16.c
+  503  ./a.out
+  504  gcc 17.c
+  505  ./a.out
+  506  gcc 18.c
+  507  ./a.out
+  508  gcc 19.c
+  509  ./a.out
+  510  gcc 20.c
+  511  ./a.out
+  512  gcc 21.c
+  513  ./a.out
+  514  gcc 22.c
+  515  ./a.out
+  516  gcc 23.c
+  517  ./a.out
+  518  gcc 24.c
+  519  ./a.out
+  520  gcc 25.c
+  521  ./a.out
+  522  gcc 25.c
+  523  ./a.out
+  524  gcc 25.c
+  525  ./a.out
+  526  gcc 26.c
+  527  ./a.out
+  528  gcc 27.c
+  529  ./a.out
+  530  gcc 28.c
+  531  ./a.out
+  532  gcc 29.c
+  533  ./a.out
+  534  gcc 29.c
+  535  ./a.out
+  536  gcc 09_alfin_assignment.c 
+  537  ./a.out
+  538  gcc 09_alfin_assignment.c 
+  539  ./a.out
+  540  gcc 30.c
+  541  ./a.out
+  542  sudo add-apt-repository ppa:danielrichter2007/grub-customizer
+  543  sudo apt update
+  544  sudo apt install grub-customizer
+  545  sudo update grub
+  546  sudo update-grub
+  547  sudo caja
+  548  ls
+  549  cd ..
+  550  ls
+  551  cd ..
+  552  ls
+  553  compizx
+  554  compiz
+  555  compiz-core
+  556  ./compiz
+  557  shut down
+  558  stop
+  559  logout
+  560  logoff
+  561  linux-restart
+  562  poweroff
+  563  ls
+  564  cd..
+  565  cd ..
+  566  ls
+  567  c ..
+  568  ls
+  569  tweak
+  570  poweroff
+  571  sudo apt-get install network-manager
+  572  undate
+  573  ungrade
+  574  upgrade
+  575  sudo update
+  576  sudo upgrade
+  577  clear
+  578  sudo apt-get install iwlist
+  579  compiz
+  580  commmand
+  581  clear
+  582  clear -a
+  583  help clear
+  584  info clear
+  585  info yput
+  586  info tput
+  587  caja
+  588  kill caja
+  589  killall
+  590  killall -i
+  591  killall -l
+  592  kill
+  593  kill -l
+  594  kill caja
+  595  jobs
+  596  ls
+  597  kill -p
+  598  kill process
+  599  job
+  600  jobs
+  601  1
+  602  jobs 1
+  603  pkill
+  604  pgrep
+  605  pgrep -l
+  606  info pgrep
+  607  killall
+  608  killall caja
+  609  caja
+  610  killall caja
+  611  kill firefox
+  612  pgrep firefox
+  613  pkill 10891
+  614  killall firefox
+  615  firefox
+  616  firefox "www.google.com"
+  617  killall firefox
+  618  force quit
+  619  pgrep firefox
+  620  pkill 12039
+  621  pgrep firefox
+  622  kill 12039
+  623  killall firefox
+  624  firefox google.cpom
+  625  jobs
+  626  xkill 
+  627  6
+  628  1
+  629  firefox
+  630  firefox "google.com"
+  631  restart firefox
+  632  reboot firefox
+  633  xkill
+  634  firefox
+  635  ps aux | grep firefox
+  636  kill 12788
+  637  pkill firefox
+  638  firefox
+  639  pkill firefox
+  640  xkill
+  641  sudo nano /lib/systemd/system-sleep/wififix
+  642  sudo chmod +x /lib/systemd/system-sleep/wififix
+  643  sudo nano /lib/systemd/system-sleep/wififix
+  644  sudo chmod +x /lib/systemd/system-sleep/wififix
+  645  ls
+  646  cd Downloads
+  647  ls
+  648  cd .. ..
+  649  cd ..
+  650  cds
+  651  cd
+  652  ls
+  653  cd ..
+  654  ls
+  655  cd ..
+  656  ls
+  657  cd media
+  658  ls
+  659  cd alfin
+  660  ls
+  661  cd windows
+  662  ls -l
+  663  cd Windows
+  664  ls
+  665  cd ..
+  666  ls
+  667  clear
+  668  cls
+  669  cd Windoews
+  670  cd Windows/
+  671  ls
+  672  cd Downloads
+  673  cd User
+  674  ls
+  675  cd Users
+  676  ls
+  677  cd 'Alena S. Thomas'
+  678  ls
+  679  cd My Documents
+  680  cd My Documents'
+  681  cd 'My Documents'
+  682  ls
+  683  cd ..
+  684  cd Downloads
+  685  ls
+  686  cd Acadamix
+  687  ls
+  688  cd Acadamis
+  689  ls
+  690  cd Lectures/
+  691  ls
+  692  cd NESO\ Academy/
+  693  LS
+  694  ls
+  695  cd d 
+  696  Digital\ electronics/
+  697  ls
+  698  cd Digital\ electronics/
+  699  ls
+  700  vlc
+  701  vlc -a
+  702  clx -all
+  703  info vlc
+  704  vlc show
+  705  firefox "fix mate wifi probleem"
+  706  sudo apt-get purge bcmwl-kernel-source broadcom-sta-common broadcom-sta-source
+  707  sudo apt-get install b43-fwcutter firmware-b43-installer
+  708  caja
+  709  kk
+  710  kkk
+  711  ls
+  712  ls -l
+  713  ls -a
+  714  kill
+  715  killp
+  716  jobs
+  717  show jobs
+  718  view jobs
+  719  killt
+  720  nm-tool
+  721  kill terminal
+  722  terminal
+  723  clear
+  724  killm
+  725  man
+  726  man killp
+  727  man kill
+  728  kill terminal
+  729  restart
+  730  kill firefox
+  731  stat
+  732  netstst
+  733  ipconfig
+  734  ipconfig -v
+  735  ipconfig -i
+  736  ipconfig
+  737  clear
+  738  echo fuck
+  739  cowthiink
+  740  cowsay
+  741  sudo apt install cowthink
+  742  sudo apt install cowsay
+  743  cowsay fuck
+  744  sudo apt install cowsay
+  745  sudo apt get brackets
+  746  brackets
+  747  bracket
+  748  update
+  749  sudo add-apt-repository ppa:webupd8team/brackets
+  750  sudo apt-get update
+  751  jobs
+  752  jobs -n
+  753  process
+  754  man job
+  755  help jobs
+  756  jobs
+  757  jobs -l
+  758  ping
+  759  ping -a
+  760  ping -m
+  761  clear
+  762  ping
+  763  ping -6
+  764  ping -6 -c
+  765  clear
+  766  grep
+  767  ls
+  768  cd Music/
+  769  ls
+  770  cd
+  771  ls
+  772  cd Documents
+  773  ls
+  774  cd Codechef/
+  775  ls
+  776  java
+  777  javac
+  778  cd
+  779  cowsay
+  780  sudo apt install cowsay
+  781  cowsay Hi
+  782  cowsay Hi | cowsay
+  783  cowsay Hi | cowsay echo
+  784  tree
+  785  sudo apt install tree
+  786  tree
+  787  brackets
+  788  sudo apt get install brackets
+  789  sudo apt-get install snapd
+  790  sudo snap install brackets
+  791  sudo add-apt-repository ppa:webupd8team/brackets
+  792  sudo apt-get update
+  793  sudo snap install brackets 
+  794  sudo snap install brackets --classic
+  795  ps
+  796  pstree
+  797  pgrep
+  798  renice
+  799  man killall
+  800  ls
+  801  ps
+  802  killall
+  803  close
+  804  show all processes
+  805  exit
+  806  sudo apt-get upgrade
+  807  brackets
+  808  sudo add-apt-repository ppa:webupd8team/bracket
+  809  sudo add-apt-repository ppa:webupd8team bracket
+  810  sudo add-apt-repository ppa:webupd8team/brackets
+  811  sudo apt-get update
+  812  sudo apt-get install brackets
+  813  brackets
+  814  sleep 2h 45m 20s && systemctl suspend -i
+  815  java -version
+  816  sudo apt-get install default-jre
+  817  java -version
+  818  javac
+  819  sudo apt-get atom
+  820  sudo apt-get install atom
+  821  nano first.java
+  822  javac first.java 
+  823  sudo apt install default-jdk
+  824  javac first.java 
+  825  nano first.java
+  826  javac first.java 
+  827  java first.java
+  828  first.java java
+  829  java first.java
+  830  nano first.java
+  831  javac first.java 
+  832  nano first.java 
+  833  javac first.java 
+  834  java first
+  835  ls
+  836  nano Simple.class
+  837  java first
+  838  java first.java
+  839  nano Simple.class
+  840  nano first.java 
+  841  javac Simple.java 
+  842  java Simple.java 
+  843  ls
+  844  rm Simple
+  845  rm Simple.$
+  846  rm Simple.#
+  847  grep Simple |rm
+  848  rm |grep Simple
+  849  rm Simple -a
+  850  rm Simple.java
+  851  rm Simple.class
+  852  nano Simple.java
+  853  ls
+  854  nano first.java 
+  855  javac first.java 
+  856  java first.java
+  857  nano first.java 
+  858  javac first.java 
+  859  java first.java
+  860  ls
+  861  rm Simple.class
+  862  ls
+  863  nano first.java
+  864  javac first.java 
+  865  java first 
+  866  ls
+  867  rm first.*
+  868  ls
+  869  ps
+  870  sudo add-apt-repository ppa:otto-kesselgulasch/gimp
+  871  sudo apt-get update
+  872  sudo apt-get install gimp
+  873  apt-get update
+  874  apt-get update --fix-missing
+  875  sudo apt-get install gimp
+  876  firefox "www.google.co"
+  877  clear
+  878  ls -lt
+  879  ls -l
+  880  ls 
+  881  ls -t
+  882  ls -l
+  883  ls -lt
+  884  ls
+  885  ls -l
+  886  ls -r
+  887  ls -lr
+  888  ls -lt
+  889  tree
+  890  ls --color
+  891  clear
+  892  ls D*
+  893  ls D* -d
+  894  ls -d
+  895  ls 
+  896  ls -a
+  897  ls -A
+  898  ls -ld
+  899  ponysay
+  900  sudo apt-get ponysay
+  901  apt-get
+  902  download ponysay
+  903  ponysay
+  904  fortune
+  905  sudo apt install fortune-mod
+  906  caja
+  907  lsb -release
+  908  lsb_release
+  909  lsb-release
+  910  lsb-release -a
+  911  lsb_release -a
+  912  ls
+  913  cd Documents/
+  914  ls
+  915  lsbpci
+  916  lspci
+  917  lspci | less 
+  918  lspci |less | grep wireless 
+  919  lspci | grep wireless 
+  920  lspci | more
+  921  lspci | less
+  922  clear
+  923  lspci > te.txt
+  924  ls
+  925  cat te.txt 
+  926  cat te.txt | grep wireless
+  927  te.txt | grep wireless
+  928  cat te.txt | grep wireless > ne.txt
+  929  ls
+  930  ls ne.txt
+  931  cat ne.txt
+  932  ls
+  933  ls -l > ne.txt
+  934  ls
+  935  ls -i
+  936  ls -s
+  937  cat te.txt 
+  938  cat tn.txt 
+  939  cat ne.txt 
+  940  clear
+  941  uname
+  942  uname -a\
+  943  uname -a
+  944  cat -m
+  945  cat -n
+  946  clear
+  947  cat te
+  948  ls
+  949  cd Documents/
+  950  ls
+  951  cat ne.txt 
+  952  cat ne.txt -n
+  953  cat ne.txt -n > ne.txt
+  954  cat ne.txt -n
+  955  cat ne.txt 
+  956  ls 
+  957  ls -l > ne.txt
+  958  ls
+  959  cat ne.txt
+  960  cat ne.txt -n | cat ne.txt
+  961  cat ne.txt
+  962  cat ne.txt -n
+  963  cat ne.txt -n | ne.txt
+  964  cat ne.txt -n | cat > ne.txt
+  965  cat ne.txt 
+  966  ls -l > ne.txt
+  967  ls
+  968  cat ne.txt
+  969  cat ne.txt | less
+  970  cat ne.txt | less | cat ne.txt
+  971  cat ne.txt | less 
+  972  cat ne.txt | less >ne.txt
+  973  ls
+  974  cat ne.txt
+  975  ls -l ne.txt
+  976  ls -l >ne.txt
+  977  cat ne.txt 
+  978  cat ne.txt -a | cat ne.txt -n 
+  979  cat ne.txt 
+  980  cat ne.txt -v
+  981  clear
+  982  ls
+  983  cat ne.txt -n > ne.txt
+  984  cat ne.txt
+  985  ifconfig
+  986  ip
+  987  ip -a
+  988  clear
+  989  ip addr
+  990  ssh 192.168.2.80
+  991  ssh
+  992  ssh 192.168.2.80
+  993  ssh 192.168.2.80/22
+  994  ssh 19.168.2.80
+  995  ls
+  996  cd
+  997  nano /etc/foss
+  998  nano /etc/hosts
+  999  ssh s1
+ 1000  ssh ask@mec.ac.in
+ 1001  ps
+ 1002  p kill nano
+ 1003  pc
+ 1004  pv
+ 1005  ps
+ 1006  ps -a
+ 1007  ps -A
+ 1008  who
+ 1009  wh o-a
+ 1010  who -a
+ 1011  whoami
+ 1012  last
+ 1013  passwd ask
+ 1014  passwd alfin
+ 1015  ssh 19.168.2.80
+ 1016  ip addr
+ 1017  su
+ 1018  reboot
+ 1019  diff
+ 1020  ls
+ 1021  cd Do
+ 1022  cd Documents/
+ 1023  ls
+ 1024  diff ne.yxt
+ 1025  diff ne.yxt te.txt
+ 1026  diff ne.txt te.txt
+ 1027  cat ne.txt 
+ 1028  cat > ne.txt 
+ 1029  cat ne.txt 
+ 1030  cat > te.txt
+ 1031  cat > te.txt 
+ 1032  diff ne.txt te.txt
+ 1033  ssh 19.168.2.80
+ 1034  ping
+ 1035  ping google.com
+ 1036  export http_proxy=http://mec:mec@192.168.0.4:3128/
+ 1037  ping google.com
+ 1038  export https_proxy=https://mec:mec@192.168.0.4:3128/
+ 1039  ping google.com
+ 1040  export http_proxy=http://mec:mec@192.168.0.4:3128
+ 1041  ping google.com
+ 1042  export http_proxy=http://mec:mec@192.168.0.4:3128/
+ 1043  ping google.com
+ 1044  export https_proxy=https://mec:mec@192.168.0.4:3128/
+ 1045  ping google.com
+ 1046  write ne.txt
+ 1047  write mec
+ 1048  alias
+ 1049  pluma  /etc/apt/apt.config
+ 1050  sudo pluma /etc/apt/apt.config
+ 1051  sudo apt update
+ 1052  sudo pluma /etc/apt/apt.config
+ 1053  sudo pluma /etc/apt/apt.conf
+ 1054  sudo caja
+ 1055  git clone https://github.com/lwfinger/rtlwifi_new.git
+ 1056  sudo apt install git
+ 1057  git clone https://github.com/lwfinger/rtlwifi_new.git
+ 1058  ponysay
+ 1059  fortune
+ 1060  sudo apt install fortune-mod
+ 1061  history
+ 1062  clear history
+ 1063  ls
+ 1064  history
+ 1065  man history
+ 1066  cd
+ 1067  mkdir csu16209
+ 1068  cd csu16209/
+ 1069  git init
+ 1070  cat test.txt
+ 1071  ls
+ 1072  touch text.txt
+ 1073  ls
+ 1074  git add test.txt
+ 1075  rm text.txt
+ 1076  ls
+ 1077  touch test.txt
+ 1078  ls
+ 1079  git add test.txt
+ 1080  git config --global user.email "alfinsthomas@gmail.com"
+ 1081  git config --global user.name "AlfinST"
+ 1082  git commit -m "First Commit Again"
+ 1083  git remote add origin https://github.com/AlfinST/fosslab.git
+ 1084  pit push -u origin master
+ 1085  export http_proxy=http://mec:mec@192.168.0.4:3128
+ 1086  export https_proxy=http://mec:mec@192.168.0.4:3128
+ 1087  pit push -u origin master
+ 1088  git push -u origin master
+ 1089  ls
+ 1090  cat test.txt
+ 1091  history > test.txt
