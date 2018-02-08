@@ -1,0 +1,38 @@
+alfin@Idle-Mind:~$ ls
+csu16209  Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+alfin@Idle-Mind:~$ ls -l
+total 36
+drwxrwxr-x 3 alfin alfin 4096 Feb  8 10:22 csu16209
+drwxr-xr-x 2 alfin alfin 4096 Jan 28 21:53 Desktop
+drwxr-xr-x 8 alfin alfin 4096 Feb  8 10:19 Documents
+drwxr-xr-x 3 alfin alfin 4096 Feb  2 14:52 Downloads
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Music
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Pictures
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Public
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Templates
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Videos
+alfin@Idle-Mind:~$ ls -lr
+total 36
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Videos
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Templates
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Public
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Pictures
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Music
+drwxr-xr-x 3 alfin alfin 4096 Feb  2 14:52 Downloads
+drwxr-xr-x 8 alfin alfin 4096 Feb  8 10:19 Documents
+drwxr-xr-x 2 alfin alfin 4096 Jan 28 21:53 Desktop
+drwxrwxr-x 3 alfin alfin 4096 Feb  8 10:22 csu16209
+alfin@Idle-Mind:~$ ls -lt
+total 36
+drwxrwxr-x 3 alfin alfin 4096 Feb  8 10:22 csu16209
+drwxr-xr-x 8 alfin alfin 4096 Feb  8 10:19 Documents
+drwxr-xr-x 3 alfin alfin 4096 Feb  2 14:52 Downloads
+drwxr-xr-x 2 alfin alfin 4096 Jan 28 21:53 Desktop
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Music
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Pictures
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Public
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Templates
+drwxr-xr-x 2 alfin alfin 4096 Nov 14 06:44 Videos
+alfin@Idle-Mind:~$ ls Do* -d
+Documents  Downloads
+
