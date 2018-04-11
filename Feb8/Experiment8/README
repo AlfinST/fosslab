@@ -1,0 +1,7 @@
+Git commands are leaned
+git init
+git add
+git commit -m ""
+
+git remote add origin https://github.com/usernamej/fosslab.git
+git push -u origin master
