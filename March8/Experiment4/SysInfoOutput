@@ -1,0 +1,15 @@
+alfin@Idle-Mind:~/csu16209/March8/Experiment4$ ./SysInfo.sh 
+User name: alfin (Login name: alfin)
+Current Shell: /bin/bash
+Home Directory: /home/alfin
+Your O/s Type: linux-gnu
+PATH: /home/alfin/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+Current directory: /home/alfin/csu16209/March8/Experiment4
+Currently Logged: 1 user(s)
+Available Shells: 
+# /etc/shells: valid login shells
+/bin/sh
+/bin/dash
+/bin/bash
+/bin/rbash
+
