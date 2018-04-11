@@ -1,0 +1,13 @@
+alfin@Idle-Mind:~/csu16209/Feb22/Experiment6$ ls
+Calc.sh
+
+alfin@Idle-Mind:~/csu16209/Feb22/Experiment6$ ls -l
+total 4
+-rw-rw-r-- 1 alfin alfin 604 Apr 11 20:09 Calc.sh
+
+alfin@Idle-Mind:~/csu16209/Feb22/Experiment6$ chmod 777 Calc.sh 
+
+alfin@Idle-Mind:~/csu16209/Feb22/Experiment6$ ls -l
+total 4
+-rwxrwxrwx 1 alfin alfin 604 Apr 11 20:09 Calc.sh
+
