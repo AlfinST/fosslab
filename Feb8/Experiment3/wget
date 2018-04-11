@@ -1,0 +1,12 @@
+alfin@Idle-Mind:~/csu16209/Feb8/Experiment3$ wget http://14.139.184.212/ask/c4b/c4b.txt
+--2018-04-11 19:46:17--  http://14.139.184.212/ask/c4b/c4b.txt
+Connecting to 14.139.184.212:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3220 (3.1K) [text/plain]
+Saving to: ‘c4b.txt’
+
+c4b.txt                                         100%[=====================================================================================================>]   3.14K  --.-KB/s    in 0s      
+
+2018-04-11 19:46:18 (64.3 MB/s) - ‘c4b.txt’ saved [3220/3220]
+
+

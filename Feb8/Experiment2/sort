@@ -1,0 +1,39 @@
+alfin@Idle-Mind:~/csu16209/Feb8/Experiment2$ sort Texts.txt 
+Anim amet officia commodo duis dolore esse sunt ut duis irure aliqua aliquip consectetur.
+Anim nostrud ipsum sunt Lorem cillum aliquip.
+ consequat magna eiusmod ut velit laboris velit.
+culpa culpa.Mollit ipsum ipsum non irure voluptate.
+In deserunt fugiat nulla est irure in anim.
+In quis reprehenderit enim enim aliqua 
+Nostrud amet culpa proident fugiat et adipisicing
+Ullamco cupidatat irure nostrud 
+ut culpa ullamco mollit elit.
+
+
+alfin@Idle-Mind:~/csu16209/Feb8/Experiment2$ 
+alfin@Idle-Mind:~/csu16209/Feb8/Experiment2$ sort -n Texts.txt 
+
+Anim amet officia commodo duis dolore esse sunt ut duis irure aliqua aliquip consectetur.
+Anim nostrud ipsum sunt Lorem cillum aliquip.
+ consequat magna eiusmod ut velit laboris velit.
+culpa culpa.Mollit ipsum ipsum non irure voluptate.
+In deserunt fugiat nulla est irure in anim.
+In quis reprehenderit enim enim aliqua 
+Nostrud amet culpa proident fugiat et adipisicing
+Ullamco cupidatat irure nostrud 
+ut culpa ullamco mollit elit.
+
+
+alfin@Idle-Mind:~/csu16209/Feb8/Experiment2$ sort -r Texts.txt 
+
+ut culpa ullamco mollit elit.
+Ullamco cupidatat irure nostrud 
+Nostrud amet culpa proident fugiat et adipisicing
+In quis reprehenderit enim enim aliqua 
+In deserunt fugiat nulla est irure in anim.
+culpa culpa.Mollit ipsum ipsum non irure voluptate.
+ consequat magna eiusmod ut velit laboris velit.
+Anim nostrud ipsum sunt Lorem cillum aliquip.
+Anim amet officia commodo duis dolore esse sunt ut duis irure aliqua aliquip consectetur.
+
+

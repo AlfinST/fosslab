@@ -1,0 +1,20 @@
+alfin@Idle-Mind:~/csu16209/Feb8/Experiment2$ awk '{print  $2 "\t" $3 "\t" $1}' Texts.txt 
+amet	culpa	Nostrud
+magna	eiusmod	consequat
+deserunt	fugiat	In
+quis	reprehenderit	In
+culpa.Mollit	ipsum	culpa
+cupidatat	irure	Ullamco
+culpa	ullamco	ut
+nostrud	ipsum	Anim
+amet	officia	Anim
+alfin@Idle-Mind:~/csu16209/Feb8/Experiment2$ cat Texts.txt 
+Nostrud amet culpa proident fugiat et adipisicing
+ consequat magna eiusmod ut velit laboris velit.
+In deserunt fugiat nulla est irure in anim.
+In quis reprehenderit enim enim aliqua 
+culpa culpa.Mollit ipsum ipsum non irure voluptate.
+Ullamco cupidatat irure nostrud 
+ut culpa ullamco mollit elit.
+Anim nostrud ipsum sunt Lorem cillum aliquip.
+Anim amet officia commodo duis dolore esse sunt ut duis irure aliqua aliquip consectetur.
