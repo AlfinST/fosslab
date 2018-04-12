@@ -1,0 +1,50 @@
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ awk '{print NR ,$0}' te.txt 
+1 HEllo My Name is
+2 S.
+3 thomas
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ awk '{print NR ,$1}' te.txt 
+1 HEllo
+2 S.
+3 thomas
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ awk '{print NR ,$2}' te.txt 
+1 My
+2 
+3 
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ awk '{print NR ,$0}' te.txt 
+1 HEllo My Name is
+2 S.
+3 thomas
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ awk 'NF >0' te.txt 
+HEllo My Name is
+S.
+thomas
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ awk '{if (length($0)>max) max = lengeth($0)} END {print max}' te.txt 
+awk: cmd. line:1: (FILENAME=te.txt FNR=1) fatal: function `lengeth' not defined
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ awk '{if (length($0)>max) max = length($0)} END {print max}' te.txt 
+16
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ sed -n 1~2p te.txt
+HEllo My Name is
+S.
+thomas
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ sed -n 1~2g te.txt
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ sed  1~2g te.txt
+
+Alfin
+
+Thomas
+
+thOmas
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ sed  1~2p te.txt
+HEllo My Name is
+HEllo My Name is
+Alfin
+S.
+S.
+Thomas
+thomas
+thomas
+thOmas
+alfin@Idle-Mind:~/Documents/SEM4/FossSem4$ sed -n  1~2p te.txt
+HEllo My Name is
+S.
+thomas
