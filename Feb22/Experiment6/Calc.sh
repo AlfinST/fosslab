@@ -1,3 +1,4 @@
+#!/bin/bash
 clear
 sum=0
 i="y"
