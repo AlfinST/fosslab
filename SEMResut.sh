@@ -1,4 +1,5 @@
 clear
+#hey wassup bro good luck with hacktoberfest!
 echo START
 pdftotext /home/alfin/Downloads/Result_MDL.pdf temp.txt 
 tr -d "\n\r" < temp.txt > temp1.txt 
